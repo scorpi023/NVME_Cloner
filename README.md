@@ -1,2 +1,2 @@
 # NVME_Cloner
-Clone NVME via script
+Powershell script to clone NVME to NVME that are connected to a Windows machine.
